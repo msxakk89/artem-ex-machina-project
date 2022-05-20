@@ -1,0 +1,11 @@
+
+
+# # # Ignore data files in whole folders
+generated_images/*
+models/*
+training_images/*
+
+# exceptions to the rule
+generated_images/.gitkeep
+models/.gitkeep
+training_images/.gitkeep
