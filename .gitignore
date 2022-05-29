@@ -4,8 +4,12 @@
 generated_images/*
 models/*
 training_images/*
+model_evolution_dir/*
 
 # exceptions to the rule
-generated_images/.gitkeep
-models/.gitkeep
-training_images/.gitkeep
+!generated_images/.gitkeep
+!models/.gitkeep
+!training_images/.gitkeep
+!training_images/raw/.gitkeep
+!training_images/resized/.gitkeep
+!model_evolution_dir/.gitkeep
