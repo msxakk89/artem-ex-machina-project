@@ -4,6 +4,8 @@
 generated_images/*
 models/*
 training_images/*
+training_images/raw/*
+training_images/resized/*
 model_evolution_dir/*
 
 # exceptions to the rule
